@@ -1,0 +1,630 @@
+.skin .sidebar a i {
+    padding-right: 5px;
+    font-size: 18px;
+}
+.last-login {
+    color: #fff;
+    padding-left: 15px;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.width200 {
+    width: 200px!important;
+}
+.memberlist .box-body {
+    padding: 20px 10px;
+}
+.box-toolbar {
+    padding: 20px 10px;
+}
+.gridStyle .table>tbody>tr>td,
+.gridStyle .table>tbody>tr>th,
+.gridStyle .table>tfoot>tr>td,
+.gridStyle .table>tfoot>tr>th,
+.gridStyle .table>thead>tr>td,
+.gridStyle .table>thead>tr>th {
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.gridStyle table thead tr a i {
+    color: #999;
+    vertical-align: middle;
+    font-size: 12px;
+}
+.gridStyle table thead tr a:hover i {
+    color: #333;
+}
+.gridStyle table tbody tr a i {
+    visibility: hidden;
+    color: #999;
+    padding-right: 8px;
+    font-size: 18px;
+}
+.gridStyle table tbody tr td a {
+    text-decoration: underline;
+}
+.gridStyle table tbody tr:hover a i {
+    visibility: visible;
+}
+.gridStyle table tbody tr a:hover i {
+    color: #333;
+}
+.avatar-grid {
+    border-radius: 50%;
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+#line-chart {
+    height: 300px;
+}
+.chart-wrapper {
+    padding: 10px;
+    position: relative;
+}
+.chart-filter {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+.chart-filter a i {
+    color: #666;
+    font-size: 16px;
+}
+.chart-filter a:hover i {
+    color: #000;
+}
+.chart-items .box-body {
+    padding: 0;
+}
+.filter-data {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, .9);
+    z-index: 10;
+    display: none;
+}
+.filter-data .filter-items {
+    float: left;
+    width: 150px;
+    margin-right: 5px;
+}
+.filter-data .pop-up-body .filter-items:last-child {
+    margin-right: 0px;
+}
+.filter {
+    margin-top: 25px;
+}
+.filter-data .pop-up-close {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+}
+.filter-data .pop-up-close a i {
+    color: #fff;
+    font-size: 30px;
+    line-height: 30px;
+}
+.filter-data .pop-up-body {
+    width: 640px;
+    margin: auto;
+    padding: 80px 5px;
+}
+.filter-data .pop-up-body .form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.feedback .filter {
+    margin-top: 0;
+}
+.navbar-custom-menu .navbar-nav li a:hover i {
+    color: #fff;
+}
+.btn-submit {
+    background: #eb8b2d;
+    color: #f5f5f5;
+    transition: all 0.5s ease;
+}
+.btn-submit:hover {
+    background: #ee9944;
+    color: #fff;
+}
+.popular-show .table th,
+.popular-show .table td {
+    border-top: none;
+}
+.popular-show-box {
+    min-height: 412px;
+}
+.total {
+    text-align: center;
+    font-size: 34px;
+    padding: 10px 0;
+}
+.clr-info {
+    color: #00c0ef;
+}
+.clr-danger {
+    color: #d33724;
+}
+.clr-success {
+    color: #00a65a;
+}
+.clr-waring {
+    color: #f39c12;
+}
+.show-status .active-state {
+    float: left;
+    width: 49%;
+    text-align: center;
+    margin-right: 2%;
+}
+.show-status .active-state h5,
+.show-status .deactive-state h5 {
+    font-size: 13px;
+    color: #666;
+}
+.show-status .active-state h6,
+.show-status .deactive-state h6 {
+    font-size: 18px;
+    color: #666;
+}
+.show-status .deactive-state {
+    float: left;
+    width: 49%;
+    text-align: center;
+}
+.bdrright-info {
+    border-right: solid #00c0ef 1px;
+}
+.bdrright-danger {
+    border-right: solid #d33724 1px;
+}
+.bdrright-success {
+    border-right: solid #00a65a 1px;
+}
+.show-details .box {
+    min-height: 196px;
+}
+.profile-avatar {
+    display: inline-block;
+    background: #ccc;
+    border-radius: 50%;
+    padding: 5px;
+}
+.profile-avatar img {
+    border-radius: 50%;
+    vertical-align: middle;
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+}
+.profile-prim-deatils {
+    margin-top: 20px;
+    padding-left: 50px;
+}
+.profile-prim-deatils h4 {
+    font-size: 24px;
+    font-weight: 500;
+}
+.profile-prim-deatils .mobile .elem {
+    display: inline-block;
+}
+.profile-prim-deatils > .mobile>.elem:not(:first-child) {
+    padding-left: 10px;
+}
+.profile-prim-deatils .mobile a {
+    color: #666;
+}
+.profile-prim-deatils .mobile a i {
+    padding-right: 5px;
+}
+.profile-label {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.about p {
+    margin-bottom: 0;
+}
+.edit-btn-wrapper {
+    margin-top: 60px;
+    text-align: right;
+}
+.profile-extra .form-horizontal {
+    padding: 10px 25px 10px 60px;
+}
+.profile-extra .form-horizontal .control-label {
+    padding-top: 0;
+    font-weight: 600;
+}
+.profile-extra .form-horizontal label {
+    color: #666;
+    font-weight: 400;
+}
+.width-20 {
+    width: 20%!important;
+}
+.width-25 {
+    width: 25%!important;
+}
+.width-5 {
+    width: 5%!important;
+}
+.width-10 {
+    width: 10%!important;
+}
+.width-15 {
+    width: 15%!important;
+}
+.width-17 {
+    width: 15%!important;
+}
+.width-12 {
+    width: 12%!important;
+}
+.width-8 {
+    width: 8%!important;
+}
+.memberlist-box .box-header > .box-tools {
+    position: static;
+}
+.memberlist-box .box-header {
+    padding: 8px;
+}
+.grid-search {
+    float: left;
+    width: 28%;
+    padding-right: 10px;
+}
+.grid-filter {
+    float: left;
+    width: 72%;
+}
+.grid-filter .form-control {
+    height: 30px;
+    padding: 5px 12px;
+}
+.grid-filter .item {
+    float: left;
+    padding-right: 10px;
+}
+.input-group-sm>.form-control,
+.input-group-sm>.input-group-addon,
+.input-group-sm>.input-group-btn>.btn {
+    border-radius: 0;
+}
+.addedon {
+    display: inline-block;
+    float: left;
+    padding-right: 5px;
+    margin-top: 5px;
+    font-weight: 400;
+}
+.sidebar-menu li a span {
+    color: #000;
+}
+.generate-report .report-title {
+    text-align: right;
+}
+.submit-report {
+    text-align: right;
+}
+.feed-state {
+    width: 50%;
+    float: left;
+}
+.feed-quest {
+    width: 50%;
+    float: left;
+}
+.feed-state-header {
+    padding: 10px;
+}
+.feed-quest-header {
+    padding: 10px;
+}
+.feed-state-body {
+    padding: 20px 10px;
+}
+.feedback-recieved {
+    min-height: 356px;
+}
+@supports (-moz-appearance: meterbar) {
+    .feedback-recieved {
+        min-height: 324px;
+    }
+}
+.filter-data-hourly .filter-data .pop-up-body .form-control {
+    font-size: 12px;
+    padding: 6px;
+}
+.filter-data-show .filter-data .pop-up-body .form-control {
+    font-size: 12px;
+    padding: 6px;
+}
+.filter-data-hourly .filter-data .pop-up-body {
+    width: 365px;
+}
+.filter-data-show .filter-data .pop-up-body {
+    width: 350px;
+}
+.feedback .filter-data .filter-items {
+    width: 102px;
+}
+.filter-data .pop-up-body .filter-items #daterange-btn2 {
+    font-size: 13px;
+    padding: 6px!important;
+}
+.logout {
+        float: right;
+        padding: 0 10px;
+    }
+    .logout a {
+        line-height: 50px;
+        vertical-align: middle;
+    }
+    .logout a i {
+        vertical-align: middle;
+        font-size: 18px;
+        color: #fff;
+    }
+    .logout a:hover i {
+        vertical-align: middle;
+        font-size: 18px;
+        color: #eb8b2d;
+    }
+@media screen and (max-width: 767px) {
+    /*Profile page*/
+    
+    .profile-avatar-wrapper {
+        text-align: center;
+    }
+    .profile-prim-deatils {
+        margin-top: 0px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .profile-prim-deatils .mobile .elem {
+        display: block;
+    }
+    .edit-btn-wrapper {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .profile-extra .form-horizontal {
+        padding: 10px;
+    }
+    /*memberList page*/
+    
+    .grid-search {
+        float: none;
+        width: 100%;
+        margin-bottom: 5px;
+        padding-right: 0;
+    }
+    .grid-filter {
+        float: none;
+        width: 100%;
+    }
+    .grid-filter .item {
+        display: block;
+        padding-right: 0px;
+        margin-bottom: 5px;
+        float: none;
+    }
+    .width200 {
+        width: 100% !important;
+    }
+    .generate-report .report-title {
+        text-align: left;
+    }
+    .feedback-recieved {
+        min-height: auto;
+    }
+    #filter-data-daily .pop-up-body {
+        width: 100%;
+        padding: 10px 5px;
+    }
+    .filter-data-show .filter-data .pop-up-body {
+        width: 100%;
+        padding: 10px 5px;
+    }
+    .filter-data-hourly .filter-data .pop-up-body {
+        width: 100%;
+        padding: 10px 5px;
+    }
+    .chart-items .box {
+        min-height: 220px;
+    }
+    .filter-data .filter-items {
+        float: none;
+        width: 90%;
+        margin-bottom: 2px;
+    }
+    .feedback .filter-data .filter-items {
+        width: 90%;
+    }
+    .feed-state {
+    width: 100%;
+    float: none;
+   }
+   .feed-quest {
+    width: 100%;
+    float: none;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .profile-avatar img {
+        width: 75px;
+        height: 75px;
+    }
+    .profile-prim-deatils {
+        margin-top: 10px;
+        padding-left: 0px;
+    }
+    .profile-prim-deatils .mobile a i {
+        padding-left: 0px;
+    }
+    .profile-prim-deatils > .mobile > .elem:not(:first-child) {
+        padding-left: 4px;
+    }
+    .edit-btn-wrapper {
+        margin-top: 30px;
+    }
+    .grid-search {
+        float: none;
+        width: 100%;
+        padding-right: 0px;
+        margin-bottom: 10px;
+    }
+    .grid-filter {
+        float: none;
+        width: 100%;
+    }
+    .profile-extra .form-horizontal {
+        padding: 10px;
+    }
+    .grid-filter .form-control {
+        padding: 5px 5px;
+        font-size: 13px;
+    }
+    .width200 {
+        width: 185px !important;
+    }
+    .width-20 {
+        width: auto!important;
+    }
+    .width-25 {
+        width: auto!important;
+    }
+    .width-5 {
+        width: auto!important;
+    }
+    .width-10 {
+        width: auto!important;
+    }
+    .width-15 {
+        width: auto!important;
+    }
+    .width-17 {
+        width: auto!important;
+    }
+    .width-12 {
+        width: auto!important;
+    }
+    .width-8 {
+        width: auto!important;
+    }
+    .addedon-filter {
+        width: 68%;
+    }
+    .feedback-recieved {
+        min-height: auto;
+    }
+    .filter-data .filter-items {
+        width: 100px;
+    }
+    .filter-data .pop-up-body .filter-items #daterange-btn {
+        font-size: 13px;
+    }
+    .feedback .filter-data .filter-items {
+        width: 100px;
+    }
+    #filter-data-daily .pop-up-body {
+        width: 480px;
+    }
+    .filter-data-show .filter-data .pop-up-body {
+        width: 350px;
+    }
+    .filter-data-hourly .filter-data .pop-up-body {
+        width: 335px;
+    }
+    .filter-data .pop-up-body .filter-items .form-control {
+        font-size: 12px;
+    }
+    .feedback .filter-data .filter-items {
+        width: 100px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+    .profile-prim-deatils > .mobile > .elem:not(:first-child) {
+        padding-left: 5px;
+    }
+    .profile-avatar img {
+        width: 75px;
+        height: 75px;
+    }
+    .profile-prim-deatils {
+        margin-top: 0px;
+        padding-left: 0px;
+    }
+    .edit-btn-wrapper {
+        margin-top: 30px;
+    }
+    .addedon-filter {
+        width: 60%;
+    }
+    .grid-search {
+        width: 30%;
+    }
+    .grid-filter {
+        width: 70%;
+    }
+    .filter-data .filter-items {
+        width: 110px;
+    }
+    .gutter-left-none {
+        padding-left: 0!important;
+    }
+    .gutter-right-none {
+        padding-right: 0!important;
+    }
+    .feedback .box-header .box-title,
+    .chart-items .box-header .box-title {
+        font-size: 13px;
+    }
+    .total {
+        padding: 2px 0;
+    }
+    .feedback-recieved {
+        min-height: 260px;
+    }
+    @supports (-moz-appearance: meterbar) {
+        .feedback-recieved {
+            min-height: 262px;
+        }
+    }
+    .feed-state-header .form-control,
+    .feed-quest-header .form-control {
+        font-size: 13px;
+        padding: 6px 4px;
+    }
+    .generate-report .form-control {
+        font-size: 12px;
+    }
+    #filter-data-daily .pop-up-body {
+        width: 480px;
+    }
+    .filter-data-show .filter-data .pop-up-body {
+        width: 368px;
+    }
+    .filter-data-hourly .filter-data .pop-up-body {
+        width: 335px;
+        padding: 66px 5px;
+    }
+    .filter-data .pop-up-body .filter-items #daterange-btn2 {
+        font-size: 12px;
+        padding: 6px !important;
+    }
+    
+}
+@media screen and (min-width: 1024px) {
+    .addedon-filter {
+        width: 60%;
+    }
+}
